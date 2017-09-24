@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PBZ Goals</string>
+    <string name="uncategorised">Uncategorised</string>
+    <string name="add_item">Add item</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="due_date">Due date</string>
+    <string name="amount_to_save">Amount to save</string>
+    <string name="start_saving">Start saving</string>
+    <string name="add_to_wish_list">Add to wish list</string>
+    <string name="goal_question">How often do you want to support your goal?</string>
+    <string name="dollar_sign">$</string>
+    <string name="saving_warning">This amount of money will be assigned to your goal based on your input. Transactions will start on date defined in settings.</string>
+    <string name="ok_got_it">Ok, got it!</string>
+    <string name="boost_progress">Boost your progress</string>
+    <string name="edit_goal">Edit goal</string>
+</resources>
